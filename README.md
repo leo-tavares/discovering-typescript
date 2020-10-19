@@ -6,7 +6,7 @@ The goal of this project, is *help people* to understand key concepts of typescr
 - [what i need to run this project?](#what-i-need-to-run-this-project)
     - [deno](#deno) 
 - [How to run this project](#How-to-run-this-project)
-- [Why deno?](#Why-deno?-NodeJs-is-not-good-enough)
+- [Why deno?](#why-deno-nodejs-is-not-good-enough)
 
 
 ## Introduction
